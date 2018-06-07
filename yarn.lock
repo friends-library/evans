@@ -92,9 +92,9 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@friends-library/friends@git://github.com/friends-library/friends.git#87cff2affaba382ab62d2eaa0e5baa128bfd273d":
+"@friends-library/friends@git://github.com/friends-library/friends.git#083369b92a38a1ea11645b535a06dc284004c718":
   version "1.0.0"
-  resolved "git://github.com/friends-library/friends.git#87cff2affaba382ab62d2eaa0e5baa128bfd273d"
+  resolved "git://github.com/friends-library/friends.git#083369b92a38a1ea11645b535a06dc284004c718"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
@@ -4061,9 +4061,9 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
 
-flow-bin@^0.70.0:
-  version "0.70.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.70.0.tgz#080ae83a997f2b4ddb3dc2649bf13336825292b5"
+flow-bin@^0.74.0:
+  version "0.74.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.74.0.tgz#8017bb00efb37cbe8d81fbb7f464038bde06adc9"
 
 flow-parser@^0.*:
   version "0.71.0"
