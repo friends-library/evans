@@ -43,12 +43,12 @@ const element = css`
 export default () => (
   <Block className={element}>
     <h1>
-      Free e-books and audio books from early writers in the Society of Friends.
+      Dedicated to the preservation and free distribution of early Quaker writings
     </h1>
 
     <p>
       {/* eslint-disable max-len */}
-      This website exists to freely share the writings of early members of the Religious Society of Friends (Quakers), believing them to contain an amazingly helpful testimony to the purity and simplicity of primitive, biblical Christianity.
+      This website exists to freely share the writings of early members of the Religious Society of Friends (Quakers) in digital, audio, and printed formats, believing them to contain a powerful testimony to the purity and simplicity of primitive, biblical Christianity.
       {/* eslint-enable max-len */}
     </p>
   </Block>
