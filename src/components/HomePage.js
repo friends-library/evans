@@ -32,7 +32,7 @@ export default () => (
       <h1>Featured Books</h1>
       <div className={featured}>
         <h2>Truth in the Inward Parts</h2>
-        <p>This book is a collection of autobigraphical extracts taken from the journals and letters of ten early Quakers detailing the struggles, spiritual growth, and inward transformation of the early years of their discipleship. <a href="/compilations/truth-in-the-inward-parts">Read now &raquo;</a></p>
+        <p>This book is a collection of autobigraphical extracts taken from the journals and letters of ten early Quakers detailing the struggles, spiritual growth, and inward transformation of the early years of their discipleship. <a href="https://friends-library-assets.nyc3.digitaloceanspaces.com/en/isaac-penington/writings-volume-1/updated/Writings_of_Isaac_Penington_vol_1--pt1--lq.mp3">Read now &raquo;</a></p>
       </div>
       <div className={featured}>
         <h2>Penington's Writings, volume 1</h2>
